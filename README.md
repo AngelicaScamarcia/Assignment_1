@@ -1,4 +1,4 @@
-# Assignment_1
+# First_assignment
 
 Solution of the first assignment Python Robotics Simulator
 ================================
